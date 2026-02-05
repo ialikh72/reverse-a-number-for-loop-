@@ -1,5 +1,5 @@
 Reverse Number Program in C#
-Description
+
 
 This C# console application reverses the digits of a number entered by the user.
 For example, if the user inputs 1234, the program outputs 4321.
